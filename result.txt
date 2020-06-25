@@ -1,0 +1,489 @@
+DateTime: 04/06/20 11:43:49 
+Platform: Windows 
+Language: MATLAB 
+MatrixName: cfd1 
+MatrixSize: 70656 x 70656 
+NonZero: 1825580 
+RelativeError: 3.478955e-13 
+ExecutionTime(ms): 7127 
+MemoryAllocated(KB): 1246396 
+ 
+DateTime: 04/06/20 11:44:00 
+Platform: Windows 
+Language: MATLAB 
+MatrixName: cfd2 
+MatrixSize: 123440 x 123440 
+NonZero: 3085406 
+RelativeError: 9.157916e-13 
+ExecutionTime(ms): 10306 
+MemoryAllocated(KB): 2509894 
+ 
+DateTime: 04/06/20 11:44:00 
+Platform: Windows 
+Language: MATLAB 
+MatrixName: ex15 
+MatrixSize: 6867 x 6867 
+NonZero: 98671 
+RelativeError: 8.573567e-07 
+ExecutionTime(ms): 77 
+MemoryAllocated(KB): 4661 
+ 
+DateTime: 04/06/20 11:44:05 
+Platform: Windows 
+Language: MATLAB 
+MatrixName: shallow_water1 
+MatrixSize: 81920 x 81920 
+NonZero: 327680 
+RelativeError: 3.198500e-16 
+ExecutionTime(ms): 4028 
+MemoryAllocated(KB): 368939 
+ 
+DateTime: 04-06-2020 11:57:30
+Platform: Windows
+Language: R
+MatrixName: G3_circuit
+MatrixSize: 1585478 x 1585478
+NonZero: 7660826
+RelativeError: 7.006596e-12
+ExecutionTime(ms): 226368
+MemoryAllocated(KB): 7918518
+
+DateTime: 04-06-2020 12:01:02
+Platform: Windows
+Language: R
+MatrixName: apache2
+MatrixSize: 715176 x 715176
+NonZero: 4817870
+RelativeError: 7.854829e-11
+ExecutionTime(ms): 209148
+MemoryAllocated(KB): 7043548
+
+DateTime: 04-06-2020 12:01:34
+Platform: Windows
+Language: R
+MatrixName: cfd1
+MatrixSize: 70656 x 70656
+NonZero: 1825580
+RelativeError: 2.956428e-12
+ExecutionTime(ms): 30365
+MemoryAllocated(KB): 1516198
+
+DateTime: 04-06-2020 12:03:15
+Platform: Windows
+Language: R
+MatrixName: cfd2
+MatrixSize: 123440 x 123440
+NonZero: 3085406
+RelativeError: 5.241967e-12
+ExecutionTime(ms): 99583
+MemoryAllocated(KB): 3035863
+
+DateTime: 04-06-2020 12:03:15
+Platform: Windows
+Language: R
+MatrixName: ex15
+MatrixSize: 6867 x 6867
+NonZero: 98671
+RelativeError: 4.331533e-07
+ExecutionTime(ms): 40
+MemoryAllocated(KB): 19149
+
+DateTime: 04-06-2020 12:03:34
+Platform: Windows
+Language: R
+MatrixName: parabolic_fem
+MatrixSize: 525825 x 525825
+NonZero: 3674625
+RelativeError: 2.504905e-12
+ExecutionTime(ms): 16868
+MemoryAllocated(KB): 1802744
+
+DateTime: 04-06-2020 12:03:35
+Platform: Windows
+Language: R
+MatrixName: shallow_water1
+MatrixSize: 81920 x 81920
+NonZero: 327680
+RelativeError: 1.43627e-16
+ExecutionTime(ms): 859
+MemoryAllocated(KB): 134193
+
+Date: 04-06-2020 12:42:11
+Platform: Windows
+Language: C++
+MatrixName: apache2
+MatrixSize: 715176 x 715176
+NonZero: 4817870
+RelativeError: 8.08389e-011
+ExecutionTime(ms): 343655
+MemoryAllocated(KB): 2682703
+
+Date: 04-06-2020 12:42:52
+Platform: Windows
+Language: C++
+MatrixName: cfd1
+MatrixSize: 70656 x 70656
+NonZero: 1825580
+RelativeError: 1.88455e-012
+ExecutionTime(ms): 25118
+MemoryAllocated(KB): 407842
+
+Date: 04-06-2020 12:44:55
+Platform: Windows
+Language: C++
+MatrixName: cfd2
+MatrixSize: 123440 x 123440
+NonZero: 3085406
+RelativeError: 6.31791e-012
+ExecutionTime(ms): 96273
+MemoryAllocated(KB): 906997
+
+Date: 04-06-2020 12:44:56
+Platform: Windows
+Language: C++
+MatrixName: ex15
+MatrixSize: 6867 x 6867
+NonZero: 98671
+RelativeError: 7.953e-007
+ExecutionTime(ms): 15
+MemoryAllocated(KB): 2981
+
+Date: 04-06-2020 12:48:40
+Platform: Windows
+Language: C++
+MatrixName: G3_circuit
+MatrixSize: 1585478 x 1585478
+NonZero: 7660826
+RelativeError: 7.5445e-012
+ExecutionTime(ms): 161642
+MemoryAllocated(KB): 2065018
+
+Date: 04-06-2020 12:49:26
+Platform: Windows
+Language: C++
+MatrixName: parabolic_fem
+MatrixSize: 525825 x 525825
+NonZero: 3674625
+RelativeError: 4.70603e-012
+ExecutionTime(ms): 13985
+MemoryAllocated(KB): 444002
+
+Date: 04-06-2020 12:49:29
+Platform: Windows
+Language: C++
+MatrixName: shallow_water1
+MatrixSize: 81920 x 81920
+NonZero: 327680
+RelativeError: 2.79838e-016
+ExecutionTime(ms): 714
+MemoryAllocated(KB): 28598
+
+Date: 04-06-2020 13:28:31
+Platform: Windows
+Language: Python
+MatrixName: apache2
+MatrixSize: 715176 x 715176
+NonZero: 4817870
+RelativeError: 2.802706e-11
+ExecutionTime(ms): 298406
+MemoryAllocated(KB): 1337291
+
+Date: 04-06-2020 13:28:49
+Platform: Windows
+Language: Python
+MatrixName: cfd1
+MatrixSize: 70656 x 70656
+NonZero: 1825580
+RelativeError: 2.073463e-14
+ExecutionTime(ms): 17094
+MemoryAllocated(KB): 188273
+
+Date: 04-06-2020 13:29:35
+Platform: Windows
+Language: Python
+MatrixName: cfd2
+MatrixSize: 123440 x 123440
+NonZero: 3085406
+RelativeError: 4.071927e-13
+ExecutionTime(ms): 46328
+MemoryAllocated(KB): 375550
+
+Date: 04-06-2020 13:29:35
+Platform: Windows
+Language: Python
+MatrixName: ex15
+MatrixSize: 6867 x 6867
+NonZero: 98671
+RelativeError: 7.466742e-07
+ExecutionTime(ms): 31
+MemoryAllocated(KB): 1655
+
+Date: 04-06-2020 13:31:05
+Platform: Windows
+Language: Python
+MatrixName: G3_circuit
+MatrixSize: 1585478 x 1585478
+NonZero: 7660826
+RelativeError: 3.633075e-12
+ExecutionTime(ms): 89125
+MemoryAllocated(KB): 1126941
+
+Date: 04-06-2020 13:31:34
+Platform: Windows
+Language: Python
+MatrixName: parabolic_fem
+MatrixSize: 525825 x 525825
+NonZero: 3674625
+RelativeError: 9.519163e-13
+ExecutionTime(ms): 28266
+MemoryAllocated(KB): 399516
+
+Date: 04-06-2020 13:31:35
+Platform: Windows
+Language: Python
+MatrixName: shallow_water1
+MatrixSize: 81920 x 81920
+NonZero: 327680
+RelativeError: 2.323659e-16
+ExecutionTime(ms): 1406
+MemoryAllocated(KB): 48230
+
+DateTime: 04/06/20 14:23:12 
+Platform: Linux 
+Language: MATLAB 
+MatrixName: cfd1 
+MatrixSize: 70656 x 70656 
+NonZero: 1825580 
+RelativeError: 3.478955e-13 
+ExecutionTime(ms): 6214 
+MemoryAllocated(KB): 1365281 
+ 
+DateTime: 04/06/20 14:23:28 
+Platform: Linux 
+Language: MATLAB 
+MatrixName: ex15 
+MatrixSize: 6867 x 6867 
+NonZero: 98671 
+RelativeError: 8.573567e-07 
+ExecutionTime(ms): 109 
+MemoryAllocated(KB): 4294 
+ 
+DateTime: 04/06/20 14:23:35 
+Platform: Linux 
+Language: MATLAB 
+MatrixName: shallow_water1 
+MatrixSize: 81920 x 81920 
+NonZero: 327680 
+RelativeError: 3.198500e-16 
+ExecutionTime(ms): 4032 
+MemoryAllocated(KB): 367084 
+ 
+DateTime: 04-06-2020 16:13:55
+Platform: Linux
+Language: R
+MatrixName: apache2
+MatrixSize: 715176 x 715176
+NonZero: 4817870
+RelativeError: 7.854829e-11
+ExecutionTime(ms): 189423
+MemoryAllocated(KB): 7044512
+
+DateTime: 04-06-2020 16:14:26
+Platform: Linux
+Language: R
+MatrixName: cfd1
+MatrixSize: 70656 x 70656
+NonZero: 1825580
+RelativeError: 2.956428e-12
+ExecutionTime(ms): 26717
+MemoryAllocated(KB): 1516196
+
+DateTime: 04-06-2020 16:15:51
+Platform: Linux
+Language: R
+MatrixName: cfd2
+MatrixSize: 123440 x 123440
+NonZero: 3085406
+RelativeError: 5.241967e-12
+ExecutionTime(ms): 82993
+MemoryAllocated(KB): 3035862
+
+DateTime: 04-06-2020 16:15:52
+Platform: Linux
+Language: R
+MatrixName: ex15
+MatrixSize: 6867 x 6867
+NonZero: 98671
+RelativeError: 4.331533e-07
+ExecutionTime(ms): 20
+MemoryAllocated(KB): 19148
+
+DateTime: 04-06-2020 16:19:47
+Platform: Linux
+Language: R
+MatrixName: G3_circuit
+MatrixSize: 1585478 x 1585478
+NonZero: 7660826
+RelativeError: 7.006596e-12
+ExecutionTime(ms): 232104
+MemoryAllocated(KB): 7917771
+
+DateTime: 04-06-2020 16:20:06
+Platform: Linux
+Language: R
+MatrixName: parabolic_fem
+MatrixSize: 525825 x 525825
+NonZero: 3674625
+RelativeError: 2.504905e-12
+ExecutionTime(ms): 13091
+MemoryAllocated(KB): 1802743
+
+DateTime: 04-06-2020 16:20:07
+Platform: Linux
+Language: R
+MatrixName: shallow_water1
+MatrixSize: 81920 x 81920
+NonZero: 327680
+RelativeError: 1.43627e-16
+ExecutionTime(ms): 677
+MemoryAllocated(KB): 134192
+
+Date: 04-06-2020 16:38:57
+Platform: Linux
+Language: C++
+MatrixName: ex15
+MatrixSize: 6867 x 6867
+NonZero: 98671
+RelativeError: 7.953e-07
+ExecutionTime(ms): 11
+MemoryAllocated(KB): 3837
+
+Date: 04-06-2020 16:38:58
+Platform: Linux
+Language: C++
+MatrixName: shallow_water1
+MatrixSize: 81920 x 81920
+NonZero: 327680
+RelativeError: 2.79841e-16
+ExecutionTime(ms): 649
+MemoryAllocated(KB): 31899
+
+Date: 04-06-2020 16:39:12
+Platform: Linux
+Language: C++
+MatrixName: parabolic_fem
+MatrixSize: 525825 x 525825
+NonZero: 3674625
+RelativeError: 4.70603e-12
+ExecutionTime(ms): 10716
+MemoryAllocated(KB): 462872
+
+Date: 04-06-2020 16:44:04
+Platform: Linux
+Language: C++
+MatrixName: apache2
+MatrixSize: 715176 x 715176
+NonZero: 4817870
+RelativeError: 8.08389e-11
+ExecutionTime(ms): 288682
+MemoryAllocated(KB): 2721669
+
+Date: 04-06-2020 16:46:26
+Platform: Linux
+Language: C++
+MatrixName: G3_circuit
+MatrixSize: 1585478 x 1585478
+NonZero: 7660826
+RelativeError: 7.5445e-12
+ExecutionTime(ms): 135745
+MemoryAllocated(KB): 2152210
+
+Date: 04-06-2020 16:46:47
+Platform: Linux
+Language: C++
+MatrixName: cfd1
+MatrixSize: 70656 x 70656
+NonZero: 1825580
+RelativeError: 1.88455e-12
+ExecutionTime(ms): 19061
+MemoryAllocated(KB): 455782
+
+Date: 04-06-2020 16:48:12
+Platform: Linux
+Language: C++
+MatrixName: cfd2
+MatrixSize: 123440 x 123440
+NonZero: 3085406
+RelativeError: 6.31791e-12
+ExecutionTime(ms): 81975
+MemoryAllocated(KB): 998621
+
+Date: 04-06-2020 17:30:18
+Platform: Linux
+Language: Python
+MatrixName: cfd2
+MatrixSize: 123440 x 123440
+NonZero: 3085406
+RelativeError: 3.38567e-13
+ExecutionTime(ms): 4233
+MemoryAllocated(KB): 432488
+
+Date: 04-06-2020 17:30:31
+Platform: Linux
+Language: Python
+MatrixName: G3_circuit
+MatrixSize: 1585478 x 1585478
+NonZero: 7660826
+RelativeError: 2.957097e-12
+ExecutionTime(ms): 20528
+MemoryAllocated(KB): 1159635
+
+Date: 04-06-2020 17:30:41
+Platform: Linux
+Language: Python
+MatrixName: apache2
+MatrixSize: 715176 x 715176
+NonZero: 4817870
+RelativeError: 3.30815e-11
+ExecutionTime(ms): 20553
+MemoryAllocated(KB): 1374970
+
+Date: 04-06-2020 17:30:41
+Platform: Linux
+Language: Python
+MatrixName: shallow_water1
+MatrixSize: 81920 x 81920
+NonZero: 327680
+RelativeError: 2.377267e-16
+ExecutionTime(ms): 632
+MemoryAllocated(KB): 197
+
+Date: 04-06-2020 17:30:41
+Platform: Linux
+Language: Python
+MatrixName: ex15
+MatrixSize: 6867 x 6867
+NonZero: 98671
+RelativeError: 6.211012e-07
+ExecutionTime(ms): 98
+MemoryAllocated(KB): 0
+
+Date: 04-06-2020 17:30:42
+Platform: Linux
+Language: Python
+MatrixName: cfd1
+MatrixSize: 70656 x 70656
+NonZero: 1825580
+RelativeError: 4.257452e-14
+ExecutionTime(ms): 2376
+MemoryAllocated(KB): 193720
+
+Date: 04-06-2020 17:30:44
+Platform: Linux
+Language: Python
+MatrixName: parabolic_fem
+MatrixSize: 525825 x 525825
+NonZero: 3674625
+RelativeError: 1.047877e-12
+ExecutionTime(ms): 3901
+MemoryAllocated(KB): 408883
